@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/c46faefa-3339-474e-8e94-963ddef03445/microsoft.web/sites/subscriptions/c46faefa-3339-474e-8e94-963ddef03445/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/encurtador-url-danielcunha",
+    "appService.deploySubpath": "."
+}
